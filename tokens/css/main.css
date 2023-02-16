@@ -1,0 +1,10 @@
+@import url('../build/css/_variables.css');
+
+a {
+    background-color: var(--sd-global-darker-gray);
+    padding: var(--sd-global-button-sm);
+    color: var(--sd-global-light-gray);
+    margin: 1rem;
+    display: inline-block;
+    border-radius: var(--sd-global-radius-sm);
+}

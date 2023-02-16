@@ -1,0 +1,19 @@
+/**
+ * Do not edit directly
+ * Generated on Wed, 15 Feb 2023 17:04:43 GMT
+ */
+
+:root {
+  --sd-global-radius-default: 4px;
+  --sd-global-button-sm: 16px;
+  --sd-global-btn-sm: 16px;
+  --sd-global-primary: #5D5FEF;
+  --sd-global-secondary: #EF5DA8;
+  --sd-global-radius-sm: 8px;
+  --sd-global-tertiary: #333;
+  --sd-global-white: #fff;
+  --sd-global-light-gray: #efefef;
+  --sd-global-green-base: #437762;
+  --sd-global-radius-l: 16px;
+  --sd-global-darker-gray: #111;
+}
